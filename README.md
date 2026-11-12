@@ -2,20 +2,22 @@
 
 Modèle Excel prêt à l'emploi pour organiser un challenge de mémorisation de versets bibliques sur 3 semaines (9 séances : lundis, mercredis et vendredis).
 
-Version **anonymisée** : les participants sont nommés « Membre 01 » à « Membre 21 » et les données sont vides — il suffit de saisir les noms et de cocher les séances.
+Version **anonymisée** : les participants sont nommés « Membre 01 » à « Membre 21 » et les données sont vides — il suffit de saisir les noms, les versets et de cocher les séances.
 
 ## Fonctionnalités
 
-- **Saisie** : 21 participants, Oui/Non par séance, colonne Bonus (versets supplémentaires), totaux automatiques, contrôles de saisie, mise en forme conditionnelle.
-- **Progression** : tableau de bord d'équipe (Oui / Non / Bonus / %), ligne TOTAL ÉQUIPE, taux par séance, cartes de synthèse, boutons « Fiche ».
-- **Fiches 01 → 21** : fiches individuelles prêtes à imprimer (KPI, détail des 9 séances, courbe de tendance, message automatique), export PDF.
+- **Versets** : référentiel des 9 séances (date, référence du verset, version de la Bible, thème).
+- **Saisie** : 21 participants, Oui/Non par séance, colonne Version (liste déroulante, modifiable), colonne Bonus (versets supplémentaires), totaux automatiques, contrôles de saisie, mise en forme conditionnelle.
+- **Progression** : tableau de bord d'équipe (Oui / Non / Bonus / Version / %), ligne TOTAL ÉQUIPE, taux par séance, cartes de synthèse, boutons « Fiche », bloc « Versets du challenge ».
+- **Fiches 01 → 21** : fiches individuelles prêtes à imprimer (version de la Bible, KPI, parcours des versets, courbe de tendance, message automatique), export PDF.
 
 ## Utilisation
 
-1. Remplacer « Membre 01 … Membre 21 » par les noms dans l'onglet **Saisie**.
-2. Cocher **Oui/Non** à chaque séance et ajouter les versets supplémentaires dans **Bonus**.
-3. Consulter **Progression** ; cliquer sur **Fiche** pour ouvrir la fiche d'un membre.
-4. Exporter en PDF : Fichier → Exporter → Créer un PDF/XPS.
+1. Renseigner les 9 versets (référence + version) dans l'onglet **Versets**.
+2. Remplacer « Membre 01 … Membre 21 » par les noms dans l'onglet **Saisie**.
+3. Cocher **Oui/Non** à chaque séance, ajouter les versets supplémentaires dans **Bonus** (version facultative par membre).
+4. Consulter **Progression** ; cliquer sur **Fiche** pour ouvrir la fiche d'un membre.
+5. Exporter en PDF : Fichier → Exporter → Créer un PDF/XPS.
 
 ## Protection
 
